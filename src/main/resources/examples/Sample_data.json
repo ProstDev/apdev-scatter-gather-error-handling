@@ -1,0 +1,49 @@
+{
+  "status": true,
+  "data": [
+    {
+      "id": 222359,
+      "area_code": "",
+      "admin_area": "",
+      "province_state": "",
+      "country_region": "India",
+      "last_update": "05-28-2020",
+      "la": "20.593684",
+      "lo": "78.96288",
+      "confirmed": 165386,
+      "death": 4711,
+      "recovered": 70920,
+      "active": 89755,
+      "combined_key": "India"
+    },
+    {
+      "id": 218839,
+      "area_code": "",
+      "admin_area": "",
+      "province_state": "",
+      "country_region": "India",
+      "last_update": "05-27-2020",
+      "la": "20.593684",
+      "lo": "78.96288",
+      "confirmed": 158086,
+      "death": 4534,
+      "recovered": 67749,
+      "active": 85803,
+      "combined_key": "India"
+    },
+    {
+      "id": 215425,
+      "area_code": "",
+      "admin_area": "",
+      "province_state": "",
+      "country_region": "India",
+      "last_update": "05-26-2020",
+      "la": "20.593684",
+      "lo": "78.96288",
+      "confirmed": 150793,
+      "death": 4344,
+      "recovered": 64277,
+      "active": 82172,
+      "combined_key": "India"
+    }]
+  }
